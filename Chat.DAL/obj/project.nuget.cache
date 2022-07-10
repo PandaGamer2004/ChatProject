@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j5/kisZ8mtA4K5JYjdCnLHKkw4HhDlK4YOFguX6p6l7laoDocLy98mncoCqijoayedawWHhy7LhAxeRzQDvOKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bazhanov\\RiderProjects\\CqsTestProject\\Chat.DAL\\Chat.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bazhanov\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

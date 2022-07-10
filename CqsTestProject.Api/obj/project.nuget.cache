@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "N0yGVQuEs3A5vwSUnzBRrhVD3ujvi6XBhiDPoM9BkQG82Ll+iA4vpjUDnl9lI1J15B8aGZI1gISdh0BsGJCT6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bazhanov\\RiderProjects\\CqsTestProject\\CqsTestProject.Api\\CqsTestProject.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bazhanov\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\bazhanov\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\bazhanov\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\bazhanov\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\bazhanov\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\bazhanov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\bazhanov\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

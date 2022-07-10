@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CqsTestProject.Api", "CqsTestProject.Api\CqsTestProject.Api.csproj", "{FCD6975F-1520-4C92-A345-922CC1459C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CqsTestProject.BLL", "CqsTestProject.BLL\CqsTestProject.BLL.csproj", "{93E5B92F-85B5-44B2-A67E-8D36D7CE3D41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat.DAL", "Chat.DAL\Chat.DAL.csproj", "{E0748A14-49B9-4C16-A5CC-DB40CFF22D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD6975F-1520-4C92-A345-922CC1459C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD6975F-1520-4C92-A345-922CC1459C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD6975F-1520-4C92-A345-922CC1459C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD6975F-1520-4C92-A345-922CC1459C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E5B92F-85B5-44B2-A67E-8D36D7CE3D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E5B92F-85B5-44B2-A67E-8D36D7CE3D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E5B92F-85B5-44B2-A67E-8D36D7CE3D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E5B92F-85B5-44B2-A67E-8D36D7CE3D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0748A14-49B9-4C16-A5CC-DB40CFF22D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0748A14-49B9-4C16-A5CC-DB40CFF22D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0748A14-49B9-4C16-A5CC-DB40CFF22D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0748A14-49B9-4C16-A5CC-DB40CFF22D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
